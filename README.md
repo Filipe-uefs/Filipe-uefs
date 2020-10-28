@@ -8,7 +8,6 @@ Atualmente me encontro estudando tecnologias Back/Front-end para adquirir conhec
 Nas horas vagas resolvos problemas de Lógica e Estruturas de Dados nas Plataformas URI.
 
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-pereira-7137991a6/)](https://www.linkedin.com/in/filipe-pereira-7137991a6/)
-
 [![Instagram: Filipe](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lipee.dev/)](https://www.instagram.com/lipee.dev/)
 
 
