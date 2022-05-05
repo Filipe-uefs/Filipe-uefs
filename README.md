@@ -24,7 +24,7 @@ Nas horas vagas resolvos problemas de Lógica e Estruturas de Dados nas Platafor
 
 ### Formação 📗
 
-Estudante do curso Técnino de Desenvolvimentos de Sistemas (SENAI-BA)
+Técnino em Desenvolvimentos de Sistemas (SENAI-BA)
 
-Graduando em Engenharia da Computação (UEFS)
+Graduando em Sistemas de Informação (UNIJORGE)
 
