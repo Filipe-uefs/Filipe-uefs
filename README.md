@@ -18,6 +18,8 @@ Python, Java, Angular
 
 ### Formação 📗
 
+Graduando em Sistemas de Informação (UFSC)
+
 Graduando em Análise de Desenvolvimento de Sistemas (UNIFAN)
 
 Técnico em Desenvolvimentos de Sistemas (SENAI-BA)
